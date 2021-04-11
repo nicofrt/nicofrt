@@ -1,0 +1,6 @@
+Projet Java Bar à cocktail.
+Avant d'éxecuter le code, il faut s'assurer la bonne version de Java.
+Pour cela, après avoir téléchargé le projet sur Eclipse, faites un clique droit sur le projet, et sélectionnez "Properties".
+Ensuite, sélectionnez "Java compiler", puis sélectionnez 11 pour "Compiler compliance Level". Vous pourrez ensuite Run le fichier "main.java".
+"main.java" se trouve dans src/main/java/com.cytech. Puis le programme déroulera. Vous pouvez jouer deux rôles : client et barman.
+Toutes est indiqué concernant le fonctionnement du bar.
